@@ -1,0 +1,11 @@
+c:\documents and settings\bs94973\my documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\bs94973\my documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+c:\documents and settings\bs94973\my documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+c:\documents and settings\bs94973\my documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.exe
+c:\documents and settings\bs94973\my documents\visual studio 2010\Projects\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.pdb
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.exe
+C:\Users\ibrhm\Desktop\BinarySearchTree\BinarySearchTree\obj\x86\Debug\BinarySearchTree.pdb
